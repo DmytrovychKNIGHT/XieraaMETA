@@ -1,2 +1,1 @@
-# XieraaMETA
-A TOOLS FOR MOST PEOPLE'S ACCOUNTS
+# install the command below yes and follow the steps.
