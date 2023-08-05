@@ -25,3 +25,6 @@ _`pip install pycryptodome && pip install Crypto && pip install Crypto`_
 _`pip install stdiomask && pip install rich && pip install colorama && pip install bs4`_
 
 _`python META.py`_
+
+
+# _`PICT HANYA PEMANIS AJA HEHEHE`_
